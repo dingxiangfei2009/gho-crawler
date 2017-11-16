@@ -1,0 +1,498 @@
+- model: visualiser.country
+  pk:  1
+  fields:
+    name:  Afghanistan
+    description:  Afghanistan
+
+- model: visualiser.country
+  pk:  2
+  fields:
+    name:  Albania
+    description:  Albania
+
+- model: visualiser.country
+  pk:  3
+  fields:
+    name:  Algeria
+    description:  Algeria
+
+- model: visualiser.country
+  pk:  4
+  fields:
+    name:  Argentina
+    description:  Argentina
+
+- model: visualiser.country
+  pk:  5
+  fields:
+    name:  Australia
+    description:  Australia
+
+- model: visualiser.country
+  pk:  6
+  fields:
+    name:  Austria
+    description:  Austria
+
+- model: visualiser.country
+  pk:  7
+  fields:
+    name:  Belarus
+    description:  Belarus
+
+- model: visualiser.country
+  pk:  8
+  fields:
+    name:  Belgium
+    description:  Belgium
+
+- model: visualiser.country
+  pk:  9
+  fields:
+    name:  Brazil
+    description:  Brazil
+
+- model: visualiser.country
+  pk:  10
+  fields:
+    name:  Bulgaria
+    description:  Bulgaria
+
+- model: visualiser.country
+  pk:  11
+  fields:
+    name:  Canada
+    description:  Canada
+
+- model: visualiser.country
+  pk:  12
+  fields:
+    name:  Chile
+    description:  Chile
+
+- model: visualiser.country
+  pk:  13
+  fields:
+    name:  China
+    description:  China
+
+- model: visualiser.country
+  pk:  14
+  fields:
+    name:  Colombia
+    description:  Colombia
+
+- model: visualiser.country
+  pk:  15
+  fields:
+    name:  Costa Rica
+    description:  Costa Rica
+
+- model: visualiser.country
+  pk:  16
+  fields:
+    name:  Croatia
+    description:  Croatia
+
+- model: visualiser.country
+  pk:  17
+  fields:
+    name:  Czech Republic
+    description:  Czech Republic
+
+- model: visualiser.country
+  pk:  18
+  fields:
+    name:  Denmark
+    description:  Denmark
+
+- model: visualiser.country
+  pk:  19
+  fields:
+    name:  Dominican Republic
+    description:  Dominican Republic
+
+- model: visualiser.country
+  pk:  20
+  fields:
+    name:  Ecuador
+    description:  Ecuador
+
+- model: visualiser.country
+  pk:  21
+  fields:
+    name:  Estonia
+    description:  Estonia
+
+- model: visualiser.country
+  pk:  22
+  fields:
+    name:  Finland
+    description:  Finland
+
+- model: visualiser.country
+  pk:  23
+  fields:
+    name:  Georgia
+    description:  Georgia
+
+- model: visualiser.country
+  pk:  24
+  fields:
+    name:  Germany
+    description:  Germany
+
+- model: visualiser.country
+  pk:  25
+  fields:
+    name:  Ghana
+    description:  Ghana
+
+- model: visualiser.country
+  pk:  26
+  fields:
+    name:  Greece
+    description:  Greece
+
+- model: visualiser.country
+  pk:  27
+  fields:
+    name:  Hungary
+    description:  Hungary
+
+- model: visualiser.country
+  pk:  28
+  fields:
+    name:  Iceland
+    description:  Iceland
+
+- model: visualiser.country
+  pk:  29
+  fields:
+    name:  India
+    description:  India
+
+- model: visualiser.country
+  pk:  30
+  fields:
+    name:  Iran (Islamic Republic of)
+    description:  Iran (Islamic Republic of)
+
+- model: visualiser.country
+  pk:  31
+  fields:
+    name:  Iraq
+    description:  Iraq
+
+- model: visualiser.country
+  pk:  32
+  fields:
+    name:  Ireland
+    description:  Ireland
+
+- model: visualiser.country
+  pk:  33
+  fields:
+    name:  Israel
+    description:  Israel
+
+- model: visualiser.country
+  pk:  34
+  fields:
+    name:  Italy
+    description:  Italy
+
+- model: visualiser.country
+  pk:  35
+  fields:
+    name:  Jamaica
+    description:  Jamaica
+
+- model: visualiser.country
+  pk:  36
+  fields:
+    name:  Japan
+    description:  Japan
+
+- model: visualiser.country
+  pk:  37
+  fields:
+    name:  Jordan
+    description:  Jordan
+
+- model: visualiser.country
+  pk:  38
+  fields:
+    name:  Kazakhstan
+    description:  Kazakhstan
+
+- model: visualiser.country
+  pk:  39
+  fields:
+    name:  Kyrgyzstan
+    description:  Kyrgyzstan
+
+- model: visualiser.country
+  pk:  40
+  fields:
+    name:  Lao People's Democratic Republic
+    description:  Lao People's Democratic Republic
+
+- model: visualiser.country
+  pk:  41
+  fields:
+    name:  Latvia
+    description:  Latvia
+
+- model: visualiser.country
+  pk:  42
+  fields:
+    name:  Lithuania
+    description:  Lithuania
+
+- model: visualiser.country
+  pk:  43
+  fields:
+    name:  Luxembourg
+    description:  Luxembourg
+
+- model: visualiser.country
+  pk:  44
+  fields:
+    name:  Maldives
+    description:  Maldives
+
+- model: visualiser.country
+  pk:  45
+  fields:
+    name:  Malta
+    description:  Malta
+
+- model: visualiser.country
+  pk:  46
+  fields:
+    name:  Mexico
+    description:  Mexico
+
+- model: visualiser.country
+  pk:  47
+  fields:
+    name:  Mongolia
+    description:  Mongolia
+
+- model: visualiser.country
+  pk:  48
+  fields:
+    name:  Morocco
+    description:  Morocco
+
+- model: visualiser.country
+  pk:  49
+  fields:
+    name:  Mozambique
+    description:  Mozambique
+
+- model: visualiser.country
+  pk:  50
+  fields:
+    name:  Nepal
+    description:  Nepal
+
+- model: visualiser.country
+  pk:  51
+  fields:
+    name:  Netherlands
+    description:  Netherlands
+
+- model: visualiser.country
+  pk:  52
+  fields:
+    name:  Nicaragua
+    description:  Nicaragua
+
+- model: visualiser.country
+  pk:  53
+  fields:
+    name:  Norway
+    description:  Norway
+
+- model: visualiser.country
+  pk:  54
+  fields:
+    name:  Oman
+    description:  Oman
+
+- model: visualiser.country
+  pk:  55
+  fields:
+    name:  Panama
+    description:  Panama
+
+- model: visualiser.country
+  pk:  56
+  fields:
+    name:  Paraguay
+    description:  Paraguay
+
+- model: visualiser.country
+  pk:  57
+  fields:
+    name:  Peru
+    description:  Peru
+
+- model: visualiser.country
+  pk:  58
+  fields:
+    name:  Poland
+    description:  Poland
+
+- model: visualiser.country
+  pk:  59
+  fields:
+    name:  Portugal
+    description:  Portugal
+
+- model: visualiser.country
+  pk:  60
+  fields:
+    name:  Republic of Korea
+    description:  Republic of Korea
+
+- model: visualiser.country
+  pk:  61
+  fields:
+    name:  Republic of Moldova
+    description:  Republic of Moldova
+
+- model: visualiser.country
+  pk:  62
+  fields:
+    name:  Romania
+    description:  Romania
+
+- model: visualiser.country
+  pk:  63
+  fields:
+    name:  Russian Federation
+    description:  Russian Federation
+
+- model: visualiser.country
+  pk:  64
+  fields:
+    name:  Rwanda
+    description:  Rwanda
+
+- model: visualiser.country
+  pk:  65
+  fields:
+    name:  Serbia
+    description:  Serbia
+
+- model: visualiser.country
+  pk:  66
+  fields:
+    name:  Singapore
+    description:  Singapore
+
+- model: visualiser.country
+  pk:  67
+  fields:
+    name:  Slovakia
+    description:  Slovakia
+
+- model: visualiser.country
+  pk:  68
+  fields:
+    name:  Slovenia
+    description:  Slovenia
+
+- model: visualiser.country
+  pk:  69
+  fields:
+    name:  South Africa
+    description:  South Africa
+
+- model: visualiser.country
+  pk:  70
+  fields:
+    name:  Spain
+    description:  Spain
+
+- model: visualiser.country
+  pk:  71
+  fields:
+    name:  Sri Lanka
+    description:  Sri Lanka
+
+- model: visualiser.country
+  pk:  72
+  fields:
+    name:  Sweden
+    description:  Sweden
+
+- model: visualiser.country
+  pk:  73
+  fields:
+    name:  Switzerland
+    description:  Switzerland
+
+- model: visualiser.country
+  pk:  74
+  fields:
+    name:  Thailand
+    description:  Thailand
+
+- model: visualiser.country
+  pk:  75
+  fields:
+    name:  The former Yugoslav Republic of Macedonia
+    description:  The former Yugoslav Republic of Macedonia
+
+- model: visualiser.country
+  pk:  76
+  fields:
+    name:  Togo
+    description:  Togo
+
+- model: visualiser.country
+  pk:  77
+  fields:
+    name:  Tunisia
+    description:  Tunisia
+
+- model: visualiser.country
+  pk:  78
+  fields:
+    name:  Turkey
+    description:  Turkey
+
+- model: visualiser.country
+  pk:  79
+  fields:
+    name:  Ukraine
+    description:  Ukraine
+
+- model: visualiser.country
+  pk:  80
+  fields:
+    name:  United Kingdom of Great Britain and Northern Ireland
+    description:  United Kingdom of Great Britain and Northern Ireland
+
+- model: visualiser.country
+  pk:  81
+  fields:
+    name:  United States of America
+    description:  United States of America
+
+- model: visualiser.country
+  pk:  82
+  fields:
+    name:  Uzbekistan
+    description:  Uzbekistan
+
+- model: visualiser.country
+  pk:  83
+  fields:
+    name:  Zambia
+    description:  Zambia
+

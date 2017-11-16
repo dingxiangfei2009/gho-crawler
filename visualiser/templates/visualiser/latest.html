@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Latest Health Risks</title>
+    {% load staticfiles %}
+    <link rel="stylesheet" href="{% static 'base.css' %}">
+    <link rel="stylesheet" href="{% static 'visualiser/main.css' %}">
+    <script src="{% static 'base.js' %}"></script>
+    <script src="{% static 'visualiser/visualiser.js' %}"></script>
+</head>
+<body class="pushable">
+    <div class="visualiser program-definitions">
+        <template vis-bind="history">
+            <div class="history container">
+                <template vis-bind="history_sprite"></template>
+            </div>
+        </template>
+    </div>
+    <div class="pusher">
+        <div class="full height">
+            <div class="ui vertical inverted sticky menu" id="sidebar">
+                <div class="item">
+                    Visualiser
+                </div>
+            </div>
+            <div class="ui grid container visualiser program-area">
+                <div class="centered row">
+                    <div class="column">
+                        <h1>Latest updates from GHO</h1>
+                    </div>
+                </div>
+                <div class="ui divider"></div>
+                <div class="row">
+                    <div class="column">
+                        <div class="ui pointing menu">
+                            <a class="item">Overview</a>
+                            <a class="item">Filters</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="ui divider"></div>
+                <div class="row">
+                    <div class="column">
+                        <!-- graph area -->
+                        <svg
+                                width="%{ graph.width }%"
+                                height="%{ graph.height }%"
+                                class="graph area"
+                                vis-bind="graph_area"
+                                vis-presenter="graph.presenter.painter"></svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

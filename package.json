@@ -1,0 +1,15 @@
+{
+  "name": "health-watch",
+  "version": "0.0.1",
+  "description": "Health Watch",
+  "author": "Ding Xiang Fei",
+  "dependencies": {
+    "gulp-concat": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "jquery": "*",
+    "requirejs": "*",
+    "semantic-ui": "*"
+  }
+}

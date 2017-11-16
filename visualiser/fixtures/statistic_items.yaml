@@ -1,0 +1,27 @@
+- model: visualiser.statisticitem
+  pk: 1
+  fields:
+    name: influenza a
+    description: Influenza Type A Reported Cases
+    type: integer
+
+- model: visualiser.statisticitem
+  pk: 2
+  fields:
+    name: influenza b
+    description: Influenza Type B Reported Cases
+    type: integer
+
+- model: visualiser.statisticitem
+  pk: 3
+  fields:
+    name: influenza all
+    description: Total Influenza Reported Cases
+    type: integer
+
+- model: visualiser.statisticitem
+  pk: 4
+  fields:
+    name: influenza activity
+    description: GHO Influenza Activity Level
+    type: string
